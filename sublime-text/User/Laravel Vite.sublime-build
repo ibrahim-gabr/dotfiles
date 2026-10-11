@@ -1,0 +1,12 @@
+{
+	"name": "Vite",
+	"shell_cmd": "npm run build",
+	"working_dir": "${project_path:${folder}}",
+	"variants":
+	[
+		{
+			"name": "Vite: Dev",
+			"shell_cmd": "npm run dev"
+		}
+	]
+}

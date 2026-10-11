@@ -1,0 +1,8 @@
+{
+	"settings": {
+		"tailwindCSS.emmetCompletions": true,
+		"tailwindCSS.colorDecorators": true,
+		"tailwindCSS.showPixelEquivalents": true,
+		"tailwindCSS.classAttributes": ["class", "className", "ngClass", ":class", "x-bind:class"]
+	}
+}

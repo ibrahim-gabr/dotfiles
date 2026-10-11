@@ -1,0 +1,10 @@
+[
+	{ "keys": ["super+alt+t"], "command": "toggle_terminus_panel" },
+	{
+		"keys": ["super+alt+f"],
+		"command": "blade_format",
+		"context": [
+			{ "key": "selector", "operator": "equal", "operand": "text.html.blade" }
+		]
+	}
+]

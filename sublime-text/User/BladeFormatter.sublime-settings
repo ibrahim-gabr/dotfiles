@@ -1,0 +1,8 @@
+{
+	"indent_size": 4,
+	"wrap_line_length": 120,
+	"end_of_line": "LF",
+	"end_with_newline": true,
+	"no_multiple_empty_lines": true,
+	"php_version": "8.4"
+}

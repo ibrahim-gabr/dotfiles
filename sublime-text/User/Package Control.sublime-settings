@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"install_missing": true,
+	"submit_usage": false,
+	"installed_packages":
+	[
+		"A File Icon",
+		"BladeFormatter",
+		"Catppuccin color schemes",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"GitSavvy",
+		"Laravel Blade",
+		"Laravel Blade Spacer",
+		"Laravel Goto",
+		"LSP",
+		"LSP-css",
+		"LSP-html",
+		"LSP-intelephense",
+		"LSP-json",
+		"LSP-tailwindcss",
+		"LSP-typescript",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Terminus"
+	]
+}

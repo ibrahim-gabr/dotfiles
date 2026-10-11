@@ -1,0 +1,28 @@
+{
+	"name": "Artisan",
+	"shell_cmd": "php artisan about",
+	"working_dir": "${project_path:${folder}}",
+	"variants":
+	[
+		{
+			"name": "Artisan: Route List",
+			"shell_cmd": "php artisan route:list --except-vendor"
+		},
+		{
+			"name": "Artisan: Migrate",
+			"shell_cmd": "php artisan migrate"
+		},
+		{
+			"name": "Artisan: Migrate Fresh + Seed",
+			"shell_cmd": "php artisan migrate:fresh --seed"
+		},
+		{
+			"name": "Artisan: Test",
+			"shell_cmd": "php artisan test --compact"
+		},
+		{
+			"name": "Artisan: Optimize Clear",
+			"shell_cmd": "php artisan optimize:clear"
+		}
+	]
+}

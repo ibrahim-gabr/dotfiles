@@ -1,0 +1,11 @@
+{
+	"settings": {
+		"intelephense.environment.phpVersion": "8.4",
+		"intelephense.format.enable": true,
+		"intelephense.completion.triggerParameterHints": true,
+		"intelephense.diagnostics.undefinedTypes": false,
+		"intelephense.inlayHint.returnTypes": false,
+		"intelephense.inlayHint.parameterTypes": false,
+		"intelephense.inlayHint.parameterNames": false
+	}
+}

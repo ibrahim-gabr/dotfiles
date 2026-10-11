@@ -1,0 +1,13 @@
+{
+	"name": "Pint",
+	"shell_cmd": "vendor/bin/pint --dirty",
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.php",
+	"variants":
+	[
+		{
+			"name": "Pint: Current File",
+			"shell_cmd": "vendor/bin/pint \"$file\""
+		}
+	]
+}

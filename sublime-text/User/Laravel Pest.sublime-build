@@ -1,0 +1,13 @@
+{
+	"name": "Pest",
+	"shell_cmd": "vendor/bin/pest",
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.php",
+	"variants":
+	[
+		{
+			"name": "Pest: Current File",
+			"shell_cmd": "vendor/bin/pest \"$file\""
+		}
+	]
+}
